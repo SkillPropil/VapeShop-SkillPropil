@@ -84,7 +84,7 @@
     <p> Программный продукт VapeShop "SkillPropil" имеет открытый исходный код. Каждый желающий может скачать актуальную версию данного сайта.
         На данный момент версия 1.0.
 </p>
-    <a href="https://forms.gle/9oFw5Qq3VSjBqZvAA" target="_blank">Скачать версию программного продукта</a>
+    <a href="https://forms.gle/9oFw5Qq3VSjBqZvAA" target="_blank">Скачать версию программного продуктаa</a>
     </div>
     </form>
 </body>
